@@ -1,0 +1,25 @@
+{
+  "bases": {
+    "DB1": {
+      "db_DNS": "DEMO",
+      "db_user": "SYSTEM",
+      "db_password": "B1Admin$",
+      "db_host": "SBO_EC_TENA4_01",
+      "database_name": "SBO_EC_TENA4_01",
+      "db_vista": "HT_VW_CASH_PICHINCHA_V3",
+      "cuenta": "1110050100",
+      "ruta_archivos": "C:/Users/usuario/Downloads/Exportación"
+    },
+    "DB2": {
+      "db_DNS": "DEMO",
+      "db_user": "SYSTEM",
+      "db_password": "B1Admin$",
+      "db_host": "SBO_EC_SL_PRUEB",
+      "database_name": "SBO_EC_SL_PRUEB",
+      "db_vista": "HT_VW_CASH_PICHINCHA_V3",
+      "cuenta": "1110050100",
+      "ruta_archivos": "C:/Users/usuario/Downloads/Exportación"
+    }
+  },
+  "frontend_path": "C:/Users/usuario/Desktop/Heinsontech/IDF/CASH/HT_APP_WEB/backend/frontend/dist"
+}
